@@ -27,3 +27,4 @@ The task is to implement both random forest and support vector classification al
 - Python code files implementing random forest and support vector classification algorithms.
 - PDF report (**Critical Analysis**) containing critical analysis of the approach and results covering the mentioned key points.
 
+**CA_data: cleaned training and testing**
